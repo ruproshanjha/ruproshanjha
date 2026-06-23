@@ -6,19 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+Intelligent+Hardware+Systems;ESP32+%7C+STM32+%7C+PCB+Design;Robotics+%7C+IoT+%7C+AI;Always+Learning+Always+Building" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruproshanjha&theme=chartreuse-dark&hide_border=true&background=000000"/>
-</p>
-
-<br>
-
-
-
-<br>
-
-
 <p align="center">
 
 <a href="https://linkedin.com/in/ruproshanjha">
