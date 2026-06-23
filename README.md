@@ -17,7 +17,7 @@
 
 
 <br>
-<h2 align="center">Connect</h2>
+
 
 <p align="center">
 
