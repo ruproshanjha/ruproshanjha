@@ -1,139 +1,55 @@
-<div align="center">
+<p align="center">
+  <img src="https://github.com/ruproshanjha/Unwanted-Resources/blob/main/1759947743515.jpg?raw=true" width="100%" alt="Banner">
+</p>
 
-# ⚡ RUP ROSHAN JHA
+<h1 align="center">Rup Roshan Jha</h1>
 
-### Embedded Systems • Robotics • AI
+<h3 align="center">
+Embedded Systems • Robotics • AI
+</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Building+Intelligent+Hardware+Systems;ESP32+%7C+STM32+%7C+PCB+Design;Robotics+%7C+IoT+%7C+AI;Turning+Ideas+Into+Working+Prototypes"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+Intelligent+Hardware+Systems;ESP32+%7C+STM32+%7C+PCB+Design;Robotics+%7C+IoT+%7C+AI;Always+Learning+Always+Building" />
+</p>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/FOCUS-EMBEDDED%20SYSTEMS-00FF41?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/DOMAIN-ROBOTICS-00FF41?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/INTEREST-AI-00FF41?style=for-the-badge&logoColor=black"/>
+<h2 align="center">Tech Stack</h2>
 
-</div>
-
----
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                      SYSTEM STATUS                          ║
-╠══════════════════════════════════════════════════════════════╣
-║ NAME      : Rup Roshan Jha                                  ║
-║ MODE      : Building                                        ║
-║ LOCATION  : India                                           ║
-║ STATUS    : Online                                          ║
-║                                                          ║
-║ CURRENTLY LOADING...                                        ║
-║ • Embedded Systems                                          ║
-║ • Robotics                                                  ║
-║ • Artificial Intelligence                                   ║
-║ • VLSI Design                                               ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-# 🌾 FEATURED BUILDS
-
-### eBhoomi
-```bash
-AI + IoT Ecosystem for Smart Agriculture
-```
-
-### 🤖 VaaniAI
-```bash
-Portable AI Companion & Voice Interface
-```
-
-### 🚁 Agri Drone
-```bash
-Multispectral Crop Intelligence Platform
-```
-
-### ⚙️ Embedded Lab
-```bash
-ESP32 • STM32 • Custom Hardware • Firmware
-```
-
-### 🦾 Robotics
-```bash
-Autonomous Systems • Control • Navigation
-```
-
----
-
-# 🛠 TECH STACK
-
-### LANGUAGES
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 
-### EMBEDDED
-
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode" />
 </p>
 
-```text
-ESP32 • STM32 • PIC16
-UART • SPI • I2C
-Firmware Development
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-00FF41?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/STM32-00FF41?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/KiCad-00FF41?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LTSpice-00FF41?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MATLAB-00FF41?style=for-the-badge&logoColor=black"/>
+</p>
 
-### DESIGN & TOOLS
+<br>
 
-```text
-KiCad • Altium Designer
-LTSpice • Proteus
-Git • GitHub
-MATLAB
-```
+<h2 align="center">GitHub Dashboard</h2>
 
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ruproshanjha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruproshanjha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+</p>
 
-# 🏆 ACHIEVEMENTS
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruproshanjha&theme=chartreuse-dark&hide_border=true&background=000000"/>
+</p>
 
-```text
-[✓] Smart India Hackathon National Finalist
+<br>
 
-[✓] Best Design Team
-    Zyro 2026
+<h2 align="center">Connect</h2>
 
-[✓] Winner
-    Autonomous Track Following Robot
-
-[✓] Runner Up
-    Robot Soccer
-```
-
----
-
-# 📊 GITHUB TELEMETRY
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ruproshanjha&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruproshanjha&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruproshanjha&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🌐 CONNECT
-
-<div align="center">
+<p align="center">
 
 <a href="https://linkedin.com/in/ruproshanjha">
 <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/>
@@ -151,23 +67,16 @@ MATLAB
 <img src="https://img.shields.io/badge/LEETCODE-00FF41?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-</div>
+</p>
 
----
+<br>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ruproshanjha&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
 
-```bash
-$ boot_sequence.sh
+<br>
 
-Loading Embedded Systems...
-Loading Robotics...
-Loading AI...
-Loading Future Projects...
-
-System Ready ✓
-```
-
-### Building intelligent systems that create real-world impact.
-
-</div>
+<p align="center">
+  <i>Building intelligent systems that create real-world impact.</i>
+</p>
