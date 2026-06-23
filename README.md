@@ -2,12 +2,6 @@
   <img src="https://github.com/ruproshanjha/Unwanted-Resources/blob/main/1759947743515.jpg?raw=true" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">Rup Roshan Jha</h1>
-
-<h3 align="center">
-Embedded Systems • Robotics • AI
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+Intelligent+Hardware+Systems;ESP32+%7C+STM32+%7C+PCB+Design;Robotics+%7C+IoT+%7C+AI;Always+Learning+Always+Building" />
 </p>
